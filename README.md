@@ -1,7 +1,5 @@
 # Tic_Tac_Toe_Game 
 
-Source Code: [Tic_Tac_Toe_Game](com/example/tic_tac_toe_game)
-
 The Tic Tac Toe game application, developed in JavaFX, provides an interactive platform for players to engage in the classic game. The application presents a graphical user interface featuring a 3x3 grid where players take turns placing their markers (X or O) with the objective of achieving a winning pattern.
 
 Upon initiation, the application prompts users to input their names, distinguishing Player X and Player O. The game interface displays the current player's turn and allows them to select an empty cell to place their marker.
